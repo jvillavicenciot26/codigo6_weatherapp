@@ -52,11 +52,11 @@ class Current {
   double tempF;
   int isDay;
   Condition condition;
-  int windMph;
+  double windMph;
   double windKph;
   int windDegree;
   String windDir;
-  int pressureMb;
+  double pressureMb;
   double pressureIn;
   double precipMm;
   double precipIn;
